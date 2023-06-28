@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wiki.szoloa.top/wiki/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8A%A8%E7%89%A9%E5%AD%A6/1/</loc>
+    
+    <lastmod>2023-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wiki.szoloa.top/wiki/%E7%94%9F%E7%89%A9%E5%AD%A6/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/a/</loc>
     
-    <lastmod>2023-06-27</lastmod>
+    <lastmod>2023-06-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>http://wiki.szoloa.top/</loc>
-    <lastmod>2023-06-27</lastmod>
+    <lastmod>2023-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -50,14 +59,21 @@
   
   <url>
     <loc>http://wiki.szoloa.top/categories/%E7%94%9F%E7%89%A9%E5%AD%A6/</loc>
-    <lastmod>2023-06-27</lastmod>
+    <lastmod>2023-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wiki.szoloa.top/categories/%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8A%A8%E7%89%A9%E5%AD%A6/</loc>
+    <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://wiki.szoloa.top/categories/%E7%94%9F%E7%89%A9%E5%AD%A6/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/</loc>
-    <lastmod>2023-06-27</lastmod>
+    <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
